@@ -166,13 +166,15 @@ a :hover {
 	height: inherit;
 	margin-bottom:70px;
 	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .project-opening-wrapper {
 	float: left;
 	margin-bottom: 70px;
 	margin-top:550px;
-	width: 100%;
+	width: 90%;
 }
 
 .project-number {
